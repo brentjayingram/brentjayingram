@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python and Terraform**
 
-- 👨‍💻 All of my projects are available at [brentjayingram.com](brentjayingram.com)
+- 👨‍💻 All of my projects are available at [brentjayingram.com](https://www.brentjayingram.com/)
 
 - 💬 Ask me about **Terraform and spinning up servers in Azure**
 
