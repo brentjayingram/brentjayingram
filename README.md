@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brent Ingram</h1>
-<h3 align="center">A passionate frontend developer from Southern California</h3>
+<h3 align="center">A passionate Azure and AWS Cloud Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brentjayingram&label=Profile%20views&color=0e75b6&style=flat" alt="brentjayingram" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [brentjayingram.com](https://www.brentjayingram.com/)
 
-- 💬 Ask me about **Terraform and spinning up servers in Azure**
+- 💬 Ask me about **Terraform and spinning up servers in Azure or AWS**
 
 - 📫 How to reach me **brent@brentjayingram.com**
 
